@@ -22,7 +22,7 @@ An intelligent, autonomous browser-based research agent that performs multi-step
 ### Video Demonstration
 
 
-> Watch the demo of the RAG Chatbot on Google Drive:  
+> Watch the demo on Google Drive:  
 [Watch the demo](https://drive.google.com/file/d/11MTu6_QBP1g-uQhq_vja-QpWKVQOTNs_/view?usp=drive_link)
 
 ---
