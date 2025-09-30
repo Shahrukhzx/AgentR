@@ -1,0 +1,30 @@
+2025/08/14-04:16:48.165 1920 Reusing MANIFEST D:\WebAgent-main\backend\temp_chrome_data\Default\Local Storage\leveldb/MANIFEST-000001
+2025/08/14-04:16:48.168 1920 Recovering log #10
+2025/08/14-04:16:48.169 1920 Reusing old log D:\WebAgent-main\backend\temp_chrome_data\Default\Local Storage\leveldb/000010.log 
+2025/08/14-04:17:48.184 2cfc Level-0 table #13: started
+2025/08/14-04:17:48.186 2cfc Level-0 table #13: 62974 bytes OK
+2025/08/14-04:17:48.188 2cfc Delete type=0 #10
+2025/08/14-04:17:57.949 2cfc Level-0 table #15: started
+2025/08/14-04:17:57.951 2cfc Level-0 table #15: 44330 bytes OK
+2025/08/14-04:17:57.952 2cfc Delete type=0 #12
+2025/08/14-04:22:19.402 2cfc Level-0 table #17: started
+2025/08/14-04:22:19.406 2cfc Level-0 table #17: 43179 bytes OK
+2025/08/14-04:22:19.408 2cfc Delete type=0 #14
+2025/08/14-04:22:19.409 2cfc Compacting 4@0 + 1@1 files
+2025/08/14-04:22:19.412 2cfc Generated table #18@0: 80 keys, 27010 bytes
+2025/08/14-04:22:19.412 2cfc Compacted 4@0 + 1@1 files => 27010 bytes
+2025/08/14-04:22:19.413 2cfc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/14-04:22:19.414 2cfc Delete type=2 #7
+2025/08/14-04:22:19.414 2cfc Delete type=2 #9
+2025/08/14-04:22:19.414 2cfc Delete type=2 #13
+2025/08/14-04:22:19.414 2cfc Delete type=2 #15
+2025/08/14-04:22:19.414 2cfc Delete type=2 #17
+2025/08/14-04:25:02.096 2cfc Level-0 table #20: started
+2025/08/14-04:25:02.101 2cfc Level-0 table #20: 45669 bytes OK
+2025/08/14-04:25:02.102 2cfc Delete type=0 #16
+2025/08/14-04:25:03.922 1920 Level-0 table #22: started
+2025/08/14-04:25:03.926 1920 Level-0 table #22: 13319 bytes OK
+2025/08/14-04:25:03.928 1920 Delete type=0 #19
+2025/08/14-04:27:09.073 2cfc Level-0 table #24: started
+2025/08/14-04:27:09.077 2cfc Level-0 table #24: 58912 bytes OK
+2025/08/14-04:27:09.079 2cfc Delete type=0 #21
